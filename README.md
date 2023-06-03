@@ -1,8 +1,8 @@
 # Hypothesis Testing
 
-Python program written to visualize hypothesis testing using the Z-test. Matplotlib is used to plot graphs, some statistics and math libraries for calculations and csv library to read the population data.
+🐍 Python program written to visualize hypothesis testing using the Z-test. Matplotlib is used to plot graphs, some statistics and math libraries for calculations and csv library to read the population data.
 
-The program generates a random sample space from population. Users are required to enter confidence level. Programs finds the appropriate attributes such as mean and variance of sample and population, compares then and shows the result.
+The program generates a random sample space from population. Users are required to enter confidence level. Programs finds the appropriate attributes such as mean and variance of sample and population, compares then and shows the result. 📉
 
 ### Tech/Framework used : 
 1. Language : Python
